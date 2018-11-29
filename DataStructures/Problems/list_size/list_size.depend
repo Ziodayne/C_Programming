@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1543068006 source:d:\users\sunny\code\c\datastructures\problems\list_size\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

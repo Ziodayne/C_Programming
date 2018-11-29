@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1543071606 source:d:\users\sunny\code\c\datastructures\problems\list_search\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
