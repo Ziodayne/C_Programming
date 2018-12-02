@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1543771874 source:d:\users\sunny\code\c\algorithms\sorting_algorithms\bubble_sort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

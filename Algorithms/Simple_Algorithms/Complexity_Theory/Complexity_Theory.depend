@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1543528497 source:d:\users\sunny\code\c\algorithms\simple_algorithms\complexity_theory\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

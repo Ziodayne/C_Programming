@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1543790064 source:d:\users\sunny\code\c\algorithms\sorting_algorithms\selection_sort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

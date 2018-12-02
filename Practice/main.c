@@ -1,18 +1,7 @@
-
-
-
-int main(){
-
-    int * arr = malloc(sizeof(int) * 10);
-
-
-    return 0;
-}
-
-
-
-
+#include <stdio.h>
+#include <stdbool.h>
 /*
+
 typedef struct edge_node{
 
     int v;
@@ -129,6 +118,8 @@ void shortest_path(graph * g){
 }
 
 
+
+
 int main()
 {
     graph * g = create_graph(8,false);
@@ -151,3 +142,52 @@ int main()
     return 0;
 }
 */
+
+
+int main(){
+
+    int count = 0;
+    int a = 0;
+
+
+
+        count++;
+        if(a < 6)
+        {
+            a = 5;
+            goto subroutine;
+        }
+
+
+        printf("%d", count);
+
+
+
+        subroutine:
+
+            printf("%d", a);
+
+
+
+
+    return 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
